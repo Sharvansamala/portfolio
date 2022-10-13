@@ -33,7 +33,6 @@ const Navbar = () => {
                     <Link to="work" smooth={true} duration={500} >
                         Work
                     </Link></li>
-                <li><a href="Blog.html" target="blank">Blog</a></li>
                 <li>
                     <Link to="contact" smooth={true} duration={500} >
                         Contact
