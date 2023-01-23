@@ -13,7 +13,7 @@ const Home = () => {
                 <p className='text-[#8992b0] py-4 max-w-700px'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Neque amet,
                     eum soluta temporibus ex et placeat laborum vel, excepturi adipisci
                     sunt veniam aperiam reiciendis ipsam suscipit distinctio maxime
-                    dignissimos inventore.</p>
+                    dignissimos hi hwlloinventore.</p>
                 <div>
                     <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#15434e] hover:border-[#15434e]' >
                     <Link className='group' to="work" smooth={true} duration={500} >
