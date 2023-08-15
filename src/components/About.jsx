@@ -17,7 +17,7 @@ const About = () => {
                         <p>Hi. I'm Sharvan ,nice to meet you. Please take a look around.</p>
                     </div>
                     <div>
-                        <p>I am a recent graduate with a IST degree and a strong interest in DevOps engineering.
+                        <p>I am a recent graduate with a CSE degree and a strong interest in DevOps engineering.
                             Skilled in automating software deployment and testing processes using Jenkins, Git, and Docker. Proficient in Linux.
                             I am seeking a DevOps Engineer position that allows me to utilize my problem-solving skills and learn more about this field.</p>
                     </div>
