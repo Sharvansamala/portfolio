@@ -13,13 +13,17 @@ const About = () => {
                     </div>
                 </div>
                 <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-                    <div className='sm:text-right text-4xl font-bold '>
+                    <div className='sm:text-right text-5xl font-bold '>
                         <p>Hi. I'm Sharvan ,nice to meet you. Please take a look around.</p>
                     </div>
-                    <div>
-                        <p>I am a recent graduate with a CSE degree and a strong interest in DevOps engineering.
-                            Skilled in automating software deployment and testing processes using Jenkins, Git, Github, and Docker. Proficient in Linux.
-                            I am seeking a DevOps Engineer position that allows me to utilize my problem-solving skills and learn more about this field.</p>
+                    <div className='sm:text-left text-1xl'>
+                        <p>I am a Full Stack Web Developer with a strong foundation in object-oriented programming, 
+                            currently pursuing a Master’s in Information Systems and Technology at the University of 
+                            North Texas. With expertise in AWS, Java, Spring Boot, MySQL and Go Lang. I focus 
+                            on creating scalable and efficient software solutions. My experience spans full-stack 
+                            development, microservices, and system design and I have successfully deployed multiple 
+                            projects on AWS. I am passionate about software design and continuously seek opportunities 
+                            to grow and contribute to innovative technologies.</p>
                     </div>
                 </div>
             </div>
