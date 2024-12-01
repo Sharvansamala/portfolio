@@ -8,6 +8,10 @@ import k8 from '../assets/kube.png'
 import actions from '../assets/github-actions.png'
 import terraform from '../assets/terraform.png'
 import ansible from '../assets/ans.png'
+import Java from "../assets/java.png"
+import spring from "../assets/spring-boot.png"
+import sql from "../assets/sql.png"
+import javascript from "../assets/javascript.png"
 
 
 const Skills = () => {
@@ -20,38 +24,30 @@ const Skills = () => {
                     <p className='py-4'>These are the technologies I've Worked with</p>
                 </div>
 
-                <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
+                <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-10'>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto text-center' src={GO} alt="GoLang icon" />
-                        <p>Golang</p>
+                        <img className='h-20 w-15 mx-auto text-center' src={Java } alt="java icon" />
+                    </div>
+                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                        <img className='h-20 w-15 mx-auto text-center' src={spring} alt="spring icon" />
+                    </div>
+                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                        <img className='h-20 w-15 mx-auto text-center' src={javascript} alt="javascript icon" />
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto text-center' src={git} alt="git icon" />
-                        <p>git</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto text-center' src={aws} alt="aws icon" />
-                        <p>aws</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto text-center' src={docker} alt="docker icon" />
-                        <p>Docker</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto text-center' src={k8} alt="Kubernetes icon" />
-                        <p>Kubernetes</p>
+                        <img className='w-20 mx-auto text-center' src={GO} alt="go icon" />
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto text-center' src={actions} alt="GitHub Actions icon" />
-                        <p>GitHub Actions</p>
-                    </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto text-center' src={terraform} alt="Terraform icon" />
-                        <p>Terraform</p>
-                    </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto text-center' src={ansible} alt="Ansible icon" />
-                        <p>Ansible</p>
+                        <img className='w-20 mx-auto text-center' src={sql}  />
                     </div>
                 </div>
             </div>
