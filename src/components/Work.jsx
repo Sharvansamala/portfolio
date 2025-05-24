@@ -11,7 +11,7 @@ const Work = () => {
     <div name="work" className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
       <div className='max-w-[1000px] mx-auto flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
-          <p className='text-4xl font-bold inline border-b-4 border-[#1434e]' >Work</p>
+          <p className='text-4xl font-bold inline border-b-4 border-[#1434e]' >Projects</p>
         </div>
         {/* container */}
         <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-4'>
@@ -62,9 +62,9 @@ const Work = () => {
                 <a href="/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>DEMO</button>
                 </a>
-                <a href="https://github.com/Sharvansamala/portfolio" target='_blank'>
+                {/* <a href="https://github.com/Sharvansamala/portfolio" target='_blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>CODE</button>
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
