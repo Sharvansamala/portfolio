@@ -17,7 +17,7 @@ const About = () => {
                         <p>Hi. I'm Sharvan ,nice to meet you;</p>
                     </div>
                     <div className='sm:text-left text-1xl'>
-                        <p>I am a Backend Developer with a strong foundation in object-oriented programming and expertise 
+                        <p>I am a Software Developer with a strong foundation in object-oriented programming and expertise 
                             in Java, Spring Boot, Go, MySQL, and AWS. I specialize in building scalable, high-performance 
                             backend systems and microservices. With hands-on experience in designing robust architectures, 
                             developing RESTful APIs, and deploying cloud-native applications on AWS, I focus on creating 
